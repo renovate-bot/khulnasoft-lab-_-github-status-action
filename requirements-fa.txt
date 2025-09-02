@@ -1,6 +1,6 @@
 # dependencies for fetch.py and analyze.py
 pandas==2.2.3
-PyGitHub==2.4.0
+PyGitHub==2.8.1
 altair==5.4.1
 pytz
 retrying
